@@ -1,0 +1,9 @@
+4 bánh xe omnidirectional (có thể di chuyển mọi hướng)
+
+side: Vị trí (front/rear + left/right)
+
+sagital_reflect: Đối xứng sagittal (±1)
+
+frontal_reflect: Đối xứng frontal (±1)
+
+Sử dụng các tham số radius, width, torque, velocity đã định nghĩa

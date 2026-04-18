@@ -1,0 +1,13 @@
+wheel_radius: Bán kính bánh xe (7.62cm)
+
+wheel_width: Độ rộng bánh xe (5cm)
+
+wheel_separation: Khoảng cách giữa các bánh xe (44.715cm) - đây là dòng bạn đang chọn
+
+wheel_pair_separation: Khoảng cách giữa cặp bánh trước/sau (48.8cm)
+
+wheel_torque: Mô-men xoắn tối đa của bánh (6.0 Nm)
+
+wheel_velocity: Tốc độ tối đa của bánh (1.0 rad/s)
+
+suspension_sagital_separation: Khoảng cách treo theo trục sagittal (34.5cm)

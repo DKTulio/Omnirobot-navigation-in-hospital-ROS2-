@@ -1,0 +1,9 @@
+[0.000000] (-) TimerEvent: {}
+[0.000417] (-) JobUnselected: {'identifier': 'launch_pal'}
+[0.000515] (-) JobUnselected: {'identifier': 'omni_base_controller_configuration'}
+[0.000539] (-) JobUnselected: {'identifier': 'omni_base_description'}
+[0.000558] (-) JobUnselected: {'identifier': 'pal_urdf_utils'}
+[0.000579] (omni_base_bringup) JobQueued: {'identifier': 'omni_base_bringup', 'dependencies': OrderedDict({'launch_pal': '/home/huylake/ros2_ws/src/omni_based_robot/install', 'omni_base_controller_configuration': '/home/huylake/ros2_ws/src/omni_based_robot/install', 'pal_urdf_utils': '/home/huylake/ros2_ws/src/omni_based_robot/install', 'omni_base_description': '/home/huylake/ros2_ws/src/omni_based_robot/install'})}
+[0.000992] (omni_base_bringup) JobStarted: {'identifier': 'omni_base_bringup'}
+[0.014139] (omni_base_bringup) JobEnded: {'identifier': 'omni_base_bringup', 'rc': 1}
+[0.024559] (-) EventReactorShutdown: {}

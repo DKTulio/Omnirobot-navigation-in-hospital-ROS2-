@@ -1,0 +1,7 @@
+front_laser_model, rear_laser_model: chọn loại cảm biến laser trước và sau.
+
+add_on_module: chọn module phụ kiện thêm vào, ví dụ rgbd-sensors.
+
+use_sim_time: dùng thời gian mô phỏng Gazebo khi chạy trong simulation.
+
+is_multiple, namespace, is_public_sim: các tùy chọn môi trường, định danh nhiều robot hoặc namespace; thường dùng khi spawn nhiều robot hoặc chạy trong môi trường công cộng.

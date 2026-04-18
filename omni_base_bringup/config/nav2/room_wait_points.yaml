@@ -1,0 +1,63 @@
+# File: room_wait_points.yaml
+# Cấu trúc điểm inside cho các phòng
+rooms:
+  room_101:
+    inside:
+      x: 13.6
+      y: 1.2
+      yaw: 0
+      action: "deep inside room"
+  room_102:
+    inside:
+      x: 13.6
+      y: -1.2
+      yaw: 0
+      action: "deep inside room"
+  room_103:
+    inside:
+      x: 18.2
+      y: -8.76
+      yaw: 90
+      action: "deep inside room"
+  room_104:
+    inside:
+      x: 28.3
+      y: -8.06
+      yaw: 180
+      action: "deep inside room"
+  room_105:
+    inside:
+      x: 36.7
+      y: -10.1
+      yaw: -90
+      action: "deep inside room"
+  room_106:
+    inside:
+      x: 37.3
+      y: 5.99
+      yaw: -110
+      action: "deep inside room"
+  room_107:
+    inside:
+      x: 27.5
+      y: 8.78
+      yaw: 0
+      action: "deep inside room"
+  room_108:
+    inside:
+      x: 29.6
+      y: 2.44
+      yaw: 0
+      action: "deep inside room"
+  room_109:
+    inside:
+      x: -0.795
+      y: 10.8
+      yaw: 90
+      action: "deep inside room"
+  room_110:
+    inside:
+      x: 17.9
+      y: 8.67
+      yaw: 0
+      action: "deep inside room"

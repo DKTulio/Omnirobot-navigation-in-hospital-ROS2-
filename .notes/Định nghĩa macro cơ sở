@@ -1,0 +1,7 @@
+Macro base nhận tham số name để tạo cơ sở robot với tên tùy chỉnh.
+
+Inertial: Thuộc tính quán tính (khối lượng 34kg, ma trận inertia)
+
+Visual: Hiển thị 3D với mesh STL và màu xám
+
+Collision: 3 hộp va chạm đơn giản hóa để tính toán va chạm

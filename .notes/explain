@@ -1,0 +1,7 @@
+Dòng đầu là khai báo XML chuẩn.
+
+Thẻ <robot> là gốc của URDF/Xacro.
+
+xmlns:xacro khai báo namespace cho các lệnh xacro:....
+
+name="omni_base" đặt tên robot.
